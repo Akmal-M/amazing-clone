@@ -11,9 +11,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4729175-19aa-4568-a049-b2ec43c175d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Checkout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Checkout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Products/Product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Products/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firebase/Firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +45,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Subtotal" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Subtotal" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\home" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\footer" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\header" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\redux" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,7 +74,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607942411377</updated>
-      <workItem from="1607942412795" duration="171000" />
+      <workItem from="1607942412795" duration="995000" />
+      <workItem from="1607943469276" duration="1681000" />
+      <workItem from="1607945290404" duration="1752000" />
+      <workItem from="1607947128007" duration="1718000" />
+      <workItem from="1607948989561" duration="2286000" />
+      <workItem from="1607951350207" duration="1784000" />
+      <workItem from="1607953638462" duration="1784000" />
+      <workItem from="1607955447863" duration="1691000" />
+      <workItem from="1607958091557" duration="1607000" />
+      <workItem from="1607960522240" duration="1757000" />
+      <workItem from="1607962339379" duration="2022000" />
+      <workItem from="1607964490158" duration="1773000" />
+      <workItem from="1607966321440" duration="1767000" />
+      <workItem from="1607968826533" duration="1783000" />
+      <workItem from="1607970643462" duration="1788000" />
+      <workItem from="1607972463310" duration="711000" />
     </task>
     <servers />
   </component>
@@ -62,5 +106,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
