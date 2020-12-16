@@ -11,26 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4729175-19aa-4568-a049-b2ec43c175d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/CheckoutProduct/CheckoutProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Login/Login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Login/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Firebase/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/StateProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Payment/Payment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Payment/Payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/axios.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Checkout/Checkout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Products/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Products/Product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Firebase/Firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Checkout/CheckoutProduct/CheckoutProduct.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Payment" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -57,18 +47,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Login" />
-      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout\CheckoutProduct" />
-      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Subtotal" />
-      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout" />
-      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\home" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\State" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\header" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\redux" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Payment" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Login" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout\CheckoutProduct" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Subtotal" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -109,7 +99,14 @@
       <workItem from="1608062506155" duration="682000" />
       <workItem from="1608063211531" duration="1786000" />
       <workItem from="1608065024576" duration="430000" />
-      <workItem from="1608113323700" duration="792000" />
+      <workItem from="1608113323700" duration="1777000" />
+      <workItem from="1608115136435" duration="1492000" />
+      <workItem from="1608116955796" duration="1023000" />
+      <workItem from="1608118768244" duration="1784000" />
+      <workItem from="1608120578354" duration="1782000" />
+      <workItem from="1608122399169" duration="1760000" />
+      <workItem from="1608124203975" duration="1620000" />
+      <workItem from="1608126014976" duration="1782000" />
     </task>
     <servers />
   </component>
@@ -129,9 +126,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1608063579180">
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1608120368537">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1608063579180" />
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1608120368537" />
   </component>
 </project>
