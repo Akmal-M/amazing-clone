@@ -17,7 +17,7 @@ const Home = () => {
                 <div className='home__row'>
                     <Product
                         id='123456541365878721'
-                        title='The lean startup'
+                        title='Alexa'
                         price={29.99}
                         image='https://cdn.pixabay.com/photo/2020/01/11/18/13/alexa-4758340_960_720.jpg'
                         rating={5}

@@ -11,23 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4729175-19aa-4568-a049-b2ec43c175d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Checkout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Checkout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Products/Product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Products/Product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Firebase/Firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Checkout/CheckoutProduct/CheckoutProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Login/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Firebase/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/StateProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/State/reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Checkout/Checkout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Checkout/Subtotal/Subtotal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Products/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Products/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firebase/Firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Checkout/CheckoutProduct/CheckoutProduct.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +48,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Subtotal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Login" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Login" />
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout\CheckoutProduct" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Subtotal" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\home" />
-      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\footer" />
-      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\header" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\My PC\Desktop\amazing-clone\src\State" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\Components\Checkout" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\components\header" />
       <recent name="C:\Users\My PC\Desktop\amazing-clone\src\redux" />
@@ -89,7 +94,22 @@
       <workItem from="1607966321440" duration="1767000" />
       <workItem from="1607968826533" duration="1783000" />
       <workItem from="1607970643462" duration="1788000" />
-      <workItem from="1607972463310" duration="711000" />
+      <workItem from="1607972463310" duration="976000" />
+      <workItem from="1608042192905" duration="1800000" />
+      <workItem from="1608044031614" duration="1773000" />
+      <workItem from="1608045847336" duration="1788000" />
+      <workItem from="1608047662027" duration="1780000" />
+      <workItem from="1608049473338" duration="1791000" />
+      <workItem from="1608051286690" duration="1844000" />
+      <workItem from="1608053156246" duration="1792000" />
+      <workItem from="1608054976133" duration="1508000" />
+      <workItem from="1608056786132" duration="1698000" />
+      <workItem from="1608058507489" duration="2078000" />
+      <workItem from="1608060692945" duration="1785000" />
+      <workItem from="1608062506155" duration="682000" />
+      <workItem from="1608063211531" duration="1786000" />
+      <workItem from="1608065024576" duration="430000" />
+      <workItem from="1608113323700" duration="792000" />
     </task>
     <servers />
   </component>
@@ -107,5 +127,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1608063579180">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="219" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1608063579180" />
   </component>
 </project>
